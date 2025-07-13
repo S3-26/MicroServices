@@ -1,0 +1,14 @@
+## http://localhost:8084/login/oauth2/code/okta
+##https://trial-2107079-admin.okta.com/admin/users
+
+FOR OKTA:
+Create okta developer free trial account
+username: srushti.sulgudle@cumminsollege.in
+password: Careers@2001
+
+Login:
+Directory -> add people and groups
+Applications-> create OpenID connect app
+give redirect uris
+
+Security -> API -> add claim
