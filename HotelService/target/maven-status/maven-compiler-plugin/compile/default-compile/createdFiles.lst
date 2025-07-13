@@ -1,0 +1,14 @@
+com\example\HotelService\Interceptors\RestTemplateInterceptor.class
+com\example\HotelService\services\HotelServiceImpl.class
+com\example\HotelService\controller\HotelController.class
+com\example\HotelService\HotelServiceApplication.class
+com\example\HotelService\Config\SecurityConfig.class
+com\example\HotelService\entities\Hotel.class
+com\example\HotelService\exceptions\ResourceNoFoundException.class
+com\example\HotelService\payload\ApiResponse.class
+com\example\HotelService\exceptions\GlobalExceptionHandler.class
+com\example\HotelService\payload\ApiResponse$ApiResponseBuilder.class
+com\example\HotelService\services\HotelService.class
+com\example\HotelService\repositories\HotelRepository.class
+com\example\HotelService\entities\Rating.class
+com\example\HotelService\HotelConfig.class
